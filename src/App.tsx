@@ -8,6 +8,9 @@ const arrow3 = (x:number):number => { return x + 1 }
 
 export const App = () => {
     return(
-        <p>Hello World!</p>
+        <div>
+            <h1>Hello</h1>
+            <p>Hello World!</p>
+        </div>
     )
 }
